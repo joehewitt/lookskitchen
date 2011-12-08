@@ -1,0 +1,22 @@
+{
+  "name": "lookskitchen",
+  "description": "Compendium of UI elements styled with Looks.",
+  "version": "0.0.1",
+  "homepage": "http://github.com/joehewitt/lookskitchen",
+  "keywords": [],
+  "author": "Joe Hewitt <joe@joehewitt.com>",
+  "contributors": [],
+  "dependencies": {
+    "app.js": "",
+    "dandy": "",
+    "looks": "",
+    "ore": "",
+    "copper": "",
+    "underscore": ""
+  },
+  "directories": {},
+  "engines": { "node": ">=0.4.0" },
+  "app.js": {
+      "static": "./static"
+  }
+}

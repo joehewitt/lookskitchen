@@ -1,0 +1,34 @@
+
+html {
+	background: #333;
+}
+
+.Page {
+	position: relative;
+	margin: 0 auto;
+	width: 600px;
+}
+
+.toolbar {
+	padding: 9px 16px 8px 16px;
+	width: 320px;
+	height: 44px;
+	-webkit-box-sizing: border-box;
+}
+
+.backButton {
+	position: absolute !important;
+	padding: 6px 8px 6px 4px;
+	font-family: HelveticaNeue;
+	font-size: 13px;
+	color: #fff;
+}
+
+.toolbarButton {
+	position: absolute !important;
+	padding: 6px 8px;
+	font-family: HelveticaNeue;
+	font-size: 13px;
+	color: #fff;
+	right: 6px;
+}
